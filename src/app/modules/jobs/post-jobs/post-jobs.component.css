@@ -1,0 +1,14 @@
+#main
+{
+  padding-left: 310px;
+  padding-top: 70px;
+  /* border: 2px solid black; */
+  overflow-y: auto;
+}
+
+.post-job-card{
+  width: 50vw;
+  height: 150vh;
+}
+
+
